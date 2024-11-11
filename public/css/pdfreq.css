@@ -1,0 +1,35 @@
+body {
+    background-color:#525659;
+}
+
+.container{
+    background-color: #fff;
+    width: 1000px;
+    height: 100%;
+    padding: 30px 50px;
+}
+
+.header {
+    border: 1px solid #000;
+    padding: 10px 10px;
+}
+
+.imgLogo {
+    width: 200px;
+}
+
+.body {
+    padding: 10px 0;
+}
+
+.footer {
+    bottom: 0;
+    position: relative;
+    width: 100%;
+    text-align: center;
+    /* margin-top: 630px; */
+}
+
+.imgfooter {
+    width: 900px;
+}
